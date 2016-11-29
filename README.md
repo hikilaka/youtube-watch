@@ -5,7 +5,9 @@ This release only supports notifications when a video is uploaded.
 
 ## Install
 Installation is easy with npm
-	npm install youtube-watch
+```bash
+npm install youtube-watch
+```
 
 ## Example
 ```javascript
