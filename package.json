@@ -1,0 +1,29 @@
+{
+  "name": "youtube-watch",
+  "version": "1.0.0",
+  "description": "Get YouTube notifications when channels upload, modify, or delete videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikilaka/youtube-watch.git"
+  },
+  "keywords": [
+    "youtube",
+    "youtube",
+    "watch",
+    "youtube",
+    "subscription"
+  ],
+  "author": "hikilaka",
+  "bugs": {
+    "url": "https://github.com/hikilaka/youtube-watch/issues"
+  },
+  "homepage": "https://github.com/hikilaka/youtube-watch#readme",
+  "dependencies": {
+    "pubsubhubbub": "^0.4.1",
+    "xml2js": "^0.4.17"
+  }
+}
